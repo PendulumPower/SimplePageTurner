@@ -1511,6 +1511,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "SW 2 and 3 are page turners, SW 4 is multi fuction button."
+		(exclude_from_sim no)
+		(at 94.742 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9adfed2c-e042-4045-8f57-8684678d2c62")
+	)
 	(text_box "Battery"
 		(exclude_from_sim no)
 		(at 128.27 110.49 0)
